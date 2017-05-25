@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MobOpsApp</string>
+    <string-array name="options">
+
+        <item> All  </item>
+        <item> Even  </item>
+        <item> Odd  </item>
+    </string-array>
+</resources>
