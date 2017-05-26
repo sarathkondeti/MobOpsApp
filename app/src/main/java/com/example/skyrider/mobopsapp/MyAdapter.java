@@ -24,7 +24,7 @@ import static android.graphics.Color.WHITE;
 /**
  * Created by skyrider on 21/5/17.
  */
-
+//Just updated
 public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder> {
 
     int itemCount;
